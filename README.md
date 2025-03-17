@@ -32,7 +32,7 @@ pip install pytesseract pillow
 
 ### Uso básico
 ```bash
-python ocr.py ruta/a/tu/imagen.jpg
+python image_to_text.py ruta/a/tu/imagen.jpg
 ```
 
 ### Códigos de idioma comunes
@@ -47,7 +47,7 @@ python ocr.py ruta/a/tu/imagen.jpg
 
 ### Extraer texto
 ```bash
-python ocr.py factura.jpg --lang spa
+python image_to_text.py factura.jpg --lang spa
 ```
 
 ## Resolución de problemas
