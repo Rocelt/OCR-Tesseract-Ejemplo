@@ -47,7 +47,7 @@ python image_to_text.py ruta/a/tu/imagen.jpg
 
 ### Extraer texto
 ```bash
-python image_to_text.py factura.jpg --lang spa
+python image_to_text.py factura.jpg
 ```
 
 ## Resolución de problemas
